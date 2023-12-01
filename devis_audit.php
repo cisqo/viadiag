@@ -1,4 +1,5 @@
 <?php 
+//old version, check local files
 define( 'PANTHEON_SESSIONS_ENABLED', 1 );
 include('./sendgrid_2023_homemade_viadiagnostic.php');
 
